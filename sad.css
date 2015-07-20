@@ -1,0 +1,42 @@
+sad{
+	#nav{
+line-height:50px;
+color:#ffffff;
+padding:10x;
+
+}
+
+#section{  
+
+	border: 1px solid red;
+    width: 90%;
+    text-align:left;
+    padding: 8px;
+	line-height:20px;
+    color:#FFFFFF;
+}
+
+#footer{
+	background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+
+
+body{
+	background: url("http://asset.msi.com/global/picture/banner/banner_2015062208543255875cc8dfcf9.jpg")no-repeat  top left;
+    background-color: #000000;
+}
+
+.banner {
+  display: block;
+  background: url("C:\Users\Amos\Desktop\banner_201506171743345581414645765.jpg") no-repeat;
+
+  padding-left: 180px; /* Equal to width of new image */
+}
+
+
+</style>
+}

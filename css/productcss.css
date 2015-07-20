@@ -1,0 +1,38 @@
+ body{
+ 	margin-left: 50px;
+ 	margin-right: 50px;
+ 	background-color:#000000; 
+ 
+}
+
+footer{
+	bottom: 0px;
+	width:90%;
+   height:50px; 
+}
+
+
+/* CSS used here will be applied after bootstrap.css */
+#carousel {
+    margin-top: 20px;
+}
+.item .thumb {
+	width: 25%;
+	cursor: pointer;
+	float: left;
+}
+.item .thumb img, .item img {
+	width: 100%;	
+}
+
+ul{
+	color:#850f10;
+
+}
+
+h3{
+	color:#CC0000;
+}
+h2{
+	color: #CC0000;
+}
